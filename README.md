@@ -4,7 +4,11 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Yurui.<br>
-        Currently honing my skills in the field of Data Science and Machine Learning<br>
+        Currently honing my skills in the field of Data Science, Machine Learning and Software Development.<br>
+        
+<p align="center">
+    Check out my <a href="https://www.fuyuri.com/" style="display: inline-block;">personal website</a> (under construction)!
+</p>
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Yurui-Feng)
