@@ -15,8 +15,10 @@
 [![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=R)](https://github.com/Yurui-Feng)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Yurui-Feng)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Yurui-Feng)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Yurui-Feng)
-[![MongoDB](https://img.shields.io/badge/mongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/Yurui-Feng)
+[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/Yurui-Feng)
+[![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/Yurui-Feng)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Yurui-Feng)
+
 
 ### Data Science & Machine Learning
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/Yurui-Feng)
@@ -28,6 +30,15 @@
 
 ### Technologies & Frameworks
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/Yurui-Feng)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/Yurui-Feng)
+[![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery)](https://github.com/Yurui-Feng)
+[![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/Yurui-Feng)
+[![EXPRESS](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/Yurui-Feng)
+[![EJS](https://img.shields.io/badge/EJS-black?style=for-the-badge&logo=ejs)](https://github.com/Yurui-Feng)
+[![ReactJS](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Yurui-Feng)
+[![MongoDB](https://img.shields.io/badge/mongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/Yurui-Feng)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Yurui-Feng)
+[![MongoDB](https://img.shields.io/badge/mongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/Yurui-Feng)
 [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)](https://github.com/Yurui-Feng)
 [![SPARK](https://img.shields.io/badge/spark-black?style=for-the-badge&logo=apachespark)](https://hub.docker.com/u/Yurui-Feng)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://hub.docker.com/u/Yurui-Feng)
