@@ -15,6 +15,8 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Yurui-Feng)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Yurui-Feng)
 [![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=R)](https://github.com/Yurui-Feng)
+[![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=Swift)](https://github.com/Yurui-Feng)
+
 
 ### Data Science Tools
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/Yurui-Feng)
