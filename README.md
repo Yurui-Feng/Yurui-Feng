@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Yurui.<br>
-        Currently honing my skills in the field of Data Science, Machine Learning and Software Development.<br>
+        Currently Working in AWS as a Cloud Support Engineer<br>
         
 <p align="center">
     Check out my <a href="https://www.fuyuri.com/" style="display: inline-block;">personal website</a> (under construction)!
